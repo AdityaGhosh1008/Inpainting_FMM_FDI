@@ -6,3 +6,13 @@ draw over the parts you want to inpaint
 result would be shown using 
 1) FDI
 2) FMM
+
+![image](https://user-images.githubusercontent.com/89151457/211057043-1fe3d2fe-6e06-441b-ab12-9584b79dc832.png)
+orignal image
+
+![output fdi](https://user-images.githubusercontent.com/89151457/211057187-e13c1f91-3016-42f0-a196-8f8976699f9b.jpg)
+FDI
+
+![output fmm](https://user-images.githubusercontent.com/89151457/211057245-3488978b-8ef1-4a99-b6d0-b74a86bf4bd6.jpg)
+FMM
+
