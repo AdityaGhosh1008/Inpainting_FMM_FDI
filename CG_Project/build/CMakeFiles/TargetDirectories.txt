@@ -1,0 +1,9 @@
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/Experimental.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/Nightly.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/Continuous.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/CG_PROJECT.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/PACKAGE.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CMakeFiles/ZERO_CHECK.dir

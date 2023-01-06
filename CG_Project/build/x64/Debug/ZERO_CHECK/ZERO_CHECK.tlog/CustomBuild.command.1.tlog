@@ -1,0 +1,10 @@
+^C:\USERS\GHOSH\ONEDRIVE\DESKTOP\CG_PROJECT\BUILD\CMAKEFILES\A8FF7F3B19A6690F29759337B9C083FC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ghosh/OneDrive/Desktop/CG_Project -BC:/Users/ghosh/OneDrive/Desktop/CG_Project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ghosh/OneDrive/Desktop/CG_Project/build/CG_PROJECT.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
