@@ -1,5 +1,5 @@
 # Inpainting_FMM_FDI
-Run dedug/CG_PROJECT.exe
+Run Debug/CG_PROJECT.exe
 
 draw over the parts you want to inpaint
 
