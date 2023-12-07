@@ -2,7 +2,7 @@
 Run Debug/CG_PROJECT.exe
 
 draw over the parts you want to inpaint
-
+press q when done
 result would be shown using 
 1) FDI(Fast Digital Inpainting)
 2) FMM(Fast Marching Method)
